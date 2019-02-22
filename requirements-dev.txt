@@ -1,0 +1,6 @@
+pylint
+autopep8
+pytest
+pytest-asyncio
+pytest-watch
+pdbpp
